@@ -60,7 +60,8 @@
   <img width=390 src="https://github-readme-streak-stats-yogiafrilisca95.vercel.app/?user=yogiafrilisca95&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-yogiafrilisca95.vercel.app/api?username=yogiafrilisca95&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com?user=YogiAfrilica95&theme=radical" alt="GitHub Streak" />
+<!--   <img width=325 align="center" src="https://streak-stats.demolab.com?user=YogiAfrilica95&theme=radical" alt="GitHub Streak" /> -->
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=YogiAfrilisca&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 <br/><br/>
 
