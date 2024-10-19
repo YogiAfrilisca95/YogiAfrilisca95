@@ -1,3 +1,4 @@
+![logo](https://github.com/yogiafrilisca95/yogiafrilisca95/main/banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YogiAfriisca95.YogiAfriisca95" />
 
 <h1 align="center">
