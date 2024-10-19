@@ -1,9 +1,7 @@
 ![logo](./banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YogiAfriisca95.YogiAfriisca95" />
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yogi+Afrilisca!&color=ffffff&background=5a2b4e&width=600&height=70" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yogi+Afrilisca!&color=ff79c6&background=00000000" />
 </h1>
 
 <h3 align="center">Passionate budding discord bot developer from Indonesia❤</h3>
