@@ -1,3 +1,4 @@
+![logo](./banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YogiAfriisca95.YogiAfriisca95" />
 
 <h1 align="center">
@@ -12,9 +13,9 @@
  
  🔭 I’m currently work as a **freelancer**
  
- 🌱 I'm currently learning **Discord.js, Node.js, JavaScript, Mysql, MongoB, Sqlite3.**
+ <!-- 🌱 I'm currently learning **Discord.js, Node.js, JavaScript, Mysql, MongoB, Sqlite3.** -->
 
-💬 Ask me about **Node.js, Discord.js, Mysql... or anything [here](https://github.com/YogiAfrilisca95/YogiAfrilisca95/issues)**
+<!-- 💬 Ask me about **Node.js, Discord.js, Mysql... or anything [here](https://github.com/YogiAfrilisca95/YogiAfrilisca95/issues)** -->
 
 ⚡ Fun fact **Hummingbird Heart Rate: Hummingbirds have very fast heart rates, reaching 1,200 beats per minute when flying.**
 
@@ -37,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,java,mysql,sqlite" /><br>
+    <!-- <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,java,mysql,sqlite" /><br> -->
 </div>
 
 <br/>
