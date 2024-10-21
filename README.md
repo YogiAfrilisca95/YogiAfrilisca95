@@ -19,17 +19,16 @@
  
 <div align="center"> 
   <a href="https://discord.gg/vH5Kt9ABtd" target="_blank">
-    <img src="https://img.shields.io/discord/:https://discord.gg/vH5Kt9ABtd
-"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/discord/768556823550795776?label=Discord&logo=discord&style=for-the-badge" />
   </a>
-  <a href="yogi.lenovoa1000@gmail.com">
+  <a href="mailto:yogi.lenovoa1000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/yogi-afrilisca-795b75229/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://yogiafrilisca95.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
