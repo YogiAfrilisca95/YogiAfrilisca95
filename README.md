@@ -18,6 +18,10 @@
  </div>
  
 <div align="center"> 
+  <a href="https://discord.gg/vH5Kt9ABtd" target="_blank">
+    <img src="https://img.shields.io/discord/:https://discord.gg/vH5Kt9ABtd
+"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
   <a href="yogi.lenovoa1000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
