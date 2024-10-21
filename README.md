@@ -18,9 +18,9 @@
  </div>
  
 <div align="center"> 
-<!--   <a href="https://discord.gg/vH5Kt9ABtd" target="_blank"> -->
+  <a href="https://discord.gg/vH5Kt9ABtd" target="_blank">
     <img src="https://img.shields.io/discord/768556823550795776?label=Discord&logo=discord&style=for-the-badge" />
-<!--   </a> -->
+  </a>
   <a href="mailto:yogi.lenovoa1000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
