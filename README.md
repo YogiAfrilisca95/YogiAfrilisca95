@@ -17,7 +17,7 @@
 
  </div>
  
-<div align="center"> 
+<!-- <div align="center"> 
  <a href="https://discord.gg/vH5Kt9ABtd" target="_blank">
     <img src="https://img.shields.io/discord/768556823550795776?label=Discord&logo=discord&style=for-the-badge" />
   </a>
@@ -31,7 +31,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
    
-</div>
+</div> -->
 
  <!-- <hr/> -->
 
